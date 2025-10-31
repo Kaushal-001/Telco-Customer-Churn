@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/kaushaljha/Desktop/Telco Churn Project/mlruns/805489132547501831/7355469813a849e6b9f0a46c37b10ec7/artifacts
+end_time: 1761892466415
+entry_point_name: ''
+experiment_id: '805489132547501831'
+lifecycle_stage: active
+run_id: 7355469813a849e6b9f0a46c37b10ec7
+run_name: thundering-gnat-44
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1761892463352
+status: 3
+tags: []
+user_id: kaushaljha
